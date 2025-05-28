@@ -30,6 +30,6 @@ Foram identificadas algumas correlações relevantes entre os hábitos registrad
 
 ## 👨‍💻 Autor
 
-[Vitor Hugo Ramos Guerra]((https://www.linkedin.com/in/vitor-hugo-ramos-guerra-b3ab4a182/))  
+[Vitor Hugo Ramos Guerra](https://www.linkedin.com/in/vitor-hugo-ramos-guerra-b3ab4a182/)   
 Projeto desenvolvido para fins educacionais e de prática em análise de dados.
 
